@@ -1,0 +1,38 @@
+[
+  {
+    "id": "greetings",
+    "category": "日常生活",
+    "title": "打招呼與禮貌用語",
+    "description": "從打招呼開始，學會旅行和交朋友都用得到的泰語。",
+    "items": [
+      {"thai":"สวัสดี","pronunciation":"薩瓦迪","chinese":"你好／再見","example":"遇見朋友或道別時都可以說。"},
+      {"thai":"ขอบคุณ","pronunciation":"考坤","chinese":"謝謝","example":"接受別人的幫助時使用。"},
+      {"thai":"ขอโทษ","pronunciation":"考托","chinese":"對不起／不好意思","example":"道歉或需要打擾別人時使用。"},
+      {"thai":"ไม่เป็นไร","pronunciation":"麥奔萊","chinese":"沒關係","example":"回應道歉時很實用。"}
+    ]
+  },
+  {
+    "id": "ordering-food",
+    "category": "餐廳點餐",
+    "title": "餐廳點餐小幫手",
+    "description": "在泰國餐廳點自己喜歡的食物，不用只靠比手畫腳。",
+    "items": [
+      {"thai":"อร่อย","pronunciation":"阿囉伊","chinese":"好吃","example":"吃到喜歡的料理時可以說。"},
+      {"thai":"ไม่เผ็ด","pronunciation":"麥配","chinese":"不辣","example":"不吃辣時，點餐前先說。"},
+      {"thai":"น้ำเปล่า","pronunciation":"南包","chinese":"白開水","example":"向店員點飲用水時使用。"},
+      {"thai":"เก็บเงินด้วย","pronunciation":"給恩恩杜艾","chinese":"麻煩結帳","example":"吃完飯想買單時使用。"}
+    ]
+  },
+  {
+    "id": "getting-around",
+    "category": "旅遊交通",
+    "title": "搭車與問路",
+    "description": "問路、打車、找洗手間，旅行途中最常派上用場。",
+    "items": [
+      {"thai":"ไปที่ไหน","pronunciation":"掰替奈","chinese":"去哪裡？","example":"詢問目的地時使用。"},
+      {"thai":"ราคาเท่าไหร่","pronunciation":"拉卡套萊","chinese":"多少錢？","example":"詢問車資或商品價格。"},
+      {"thai":"ห้องน้ำอยู่ที่ไหน","pronunciation":"轟南優替奈","chinese":"洗手間在哪裡？","example":"在車站、商場都很實用。"},
+      {"thai":"ช่วยด้วย","pronunciation":"崔杜艾","chinese":"幫幫我！","example":"需要緊急協助時使用。"}
+    ]
+  }
+]
